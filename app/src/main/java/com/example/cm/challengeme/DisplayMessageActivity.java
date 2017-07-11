@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 public class DisplayMessageActivity extends AppCompatActivity {
 
+    // This activity displays a message on the screen.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
